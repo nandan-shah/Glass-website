@@ -141,7 +141,9 @@ p {
   display: none;
   cursor: none;
 }
-
+.about{
+  display: block;
+}
 #exp {
   display: none;
 }
@@ -193,6 +195,7 @@ p {
 
 @media screen and (max-width: 750px) {
   body {
+    display: none;
   }
 }
 
